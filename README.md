@@ -57,3 +57,7 @@ pytest
 - The target is the asking price, not the sale price.
 - All listings are from spring 2021, when used-car prices were unusually high, so the dollar figures do not transfer to other periods.
 - Deduplication relies on VIN or an exact match on five fields; a repost with an edited price counts as a different car.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
